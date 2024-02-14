@@ -15,8 +15,7 @@
     /* background-image: url(https://shorturl.at/euzMR); */
     background-image: url('../img/pic2.png');
     background-repeat: no-repeat;
-    /* background-position: center center; */
-    /* background-attachment: fixed; */
+    background-position: center center;
     background-size: cover;
     background-position: center;
     background-size: 97%;
