@@ -13,7 +13,7 @@
     height: 300px;
     /* Internal Image, upload your couple image here */
     /* background-image: url(https://shorturl.at/euzMR); */
-    background-image: url('../img/pic2.png');
+    /* background-image: url('../img/pic2.png'); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -26,6 +26,13 @@
     transform: preserve-3d;
     -webkit-perspective: 2000px;
     perspective: 2000px;
+}
+
+img {
+    width: 94%;
+    margin: 3px 5px 0px 8px;
+    /* margin-bottom: 4px; */
+    border-radius: 7px;
 }
 
 
